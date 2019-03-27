@@ -1,0 +1,45 @@
+body {
+  
+  background-image: url("digitaltransformation.jpg");
+  height: 100%; 
+  background-position: center;
+  background-repeat: repeat-y;
+  background-size: cover;
+}
+
+
+ 
+ h1 {
+ 
+ color: black;
+ margin-left:  .5px;
+ }
+ 
+ p {
+    padding:50px;
+ }
+ 
+ h1 {
+    font-size: 1.5em;
+  }
+  ul.a {
+    list-style-type: circle;
+  }
+ 
+  ul.b {
+    list-style-type: square;
+  }
+ 
+  ol.c {
+    list-style-type: upper-roman;
+  }
+ 
+  ol.d {
+    list-style-type: lower-alpha;
+  }
+  
+  .txt1{
+       width: 1300px;
+       border: 2px solid blue;
+
+  }
